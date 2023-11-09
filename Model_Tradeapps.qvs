@@ -1,2 +1,8 @@
 // DIt is test van 22:33
 
+Tabel:
+load * Inline [
+A,B
+1,2
+3,4
+];
