@@ -5,7 +5,8 @@ TRACE 'Hallo Hallo';
 
 Tabel:
 load * Inline [
-A,B
-1,2
-3,4
-];
+A, B
+1, 2
+3, 4
+]
+;
