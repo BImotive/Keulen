@@ -1,7 +1,7 @@
 // DIt is test van 22:33
 
 
-TRACE 'Hallo Hallo wat nu weer?';
+TRACE 'Hallo Hallo wat nu weer? Is het druk?';
 
 Tabel:
 load * Inline [
