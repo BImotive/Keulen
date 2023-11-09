@@ -1,5 +1,8 @@
 // DIt is test van 22:33
 
+
+TRACE 'Hallo Hallo';
+
 Tabel:
 load * Inline [
 A,B
